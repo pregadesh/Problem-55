@@ -10,3 +10,7 @@ class Main{
   }
 }
 // 2. Reverse a String without an lib function
+class Main{
+  public static void main (String[] args){
+    String a = "apple";
+    
