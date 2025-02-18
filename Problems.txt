@@ -1,0 +1,77 @@
+>>1. Arrays and Strings:
+a.	Find the largest and smallest element in an array.
+b.	Reverse a string without using any library functions.
+c.	Check if a string is a palindrome.
+d.	Merge two sorted arrays.
+e.	Find the second largest element in an array.
+
+>>2. Mathematics:
+a.	Check if a number is prime.
+b.	Find the factorial of a number.
+c.	Generate the Fibonacci sequence up to `n` terms.
+d.	Compute the greatest common divisor (GCD) of two numbers.
+e.	Find the sum of digits of a number.
+
+>>3. Searching and Sorting:
+a.	Implement binary search.
+b.	Implement bubble sort.
+c.	Implement merge sort.
+d.	Implement quick sort.
+e.	Find the k-th largest element in an array.
+
+>>4. Linked Lists:
+a.	Reverse a linked list.
+b.	Detect a cycle in a linked list.
+c.	Merge two sorted linked lists.
+d.	Find the middle element of a linked list.
+e.	Remove duplicates from a sorted linked list.
+
+>>5. Stacks and Queues:
+a.	Implement a stack using arrays/linked list.
+b.	Implement a queue using arrays/linked list.
+c.	Implement a stack that supports `getMin()` in O(1) time.
+d.	Implement a circular queue.
+e.	Evaluate a postfix expression using a stack.
+
+>>6. Trees and Graphs:
+a.	Implement inorder, preorder, and postorder tree traversal.
+b.	Find the height of a binary tree.
+c.	Check if a binary tree is a binary search tree (BST).
+d.	Find the lowest common ancestor (LCA) of two nodes in a BST.
+e.	Implement depth-first search (DFS) for a graph.
+f.	Implement breadth-first search (BFS) for a graph.
+
+>>7. Dynamic Programming:
+a.	Solve the Fibonacci sequence problem using dynamic programming.
+b.	Solve the knapsack problem.
+c.	Find the longest common subsequence (LCS) of two strings.
+d.	Find the minimum number of edits (operations) required to convert one string into another (edit distance).
+e.	Find the maximum sum subarray (Kadane's algorithm).
+
+>>8. Advanced Data Structures:
+a.	Implement a trie (prefix tree) for storing a dictionary.
+b.	Implement a segment tree for range sum queries.
+c.	Implement a balanced binary search tree (e.g., AVL tree, Red-Black tree).
+d.	Implement a hash table with collision handling using chaining.
+e.	Implement Dijkstra's algorithm for shortest paths in a graph.
+
+>>9. String Manipulation:
+a.	Find the longest substring without repeating characters.
+b.	Count and say sequence.
+c.	Implement wildcard pattern matching with `*` and `?`.
+d.	Group anagrams from a list of strings.
+e.	Find all permutations of a string.
+
+>>10. Recursion and Backtracking:
+a.	Solve the N-Queens problem.
+b.	Solve the Sudoku puzzle.
+c.	Find all subsets of a set.
+d.	Generate all valid parentheses combinations for `n` pairs.
+e.	Solve the rat in a maze problem.
+
+>>11. Bit Manipulation:
+a.	Find the single number in an array where every other number appears twice.
+b.	Count the number of 1s in the binary representation of an integer.
+c.	Find the two non-repeating elements in an array where every other element repeats.
+d.	Determine if a number is a power of two.
+e.	Swap two numbers without using a temporary variable.
