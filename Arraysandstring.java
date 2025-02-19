@@ -13,4 +13,11 @@ class Main{
 class Main{
   public static void main (String[] args){
     String a = "apple";
-    
+    String rev_a = "";
+    for(int i = r.length()-1; i>= a; i--){
+       rev_a += str.charAt(i);
+    }
+  System.out.print(rev_a);
+  }
+}
+// 3. 
